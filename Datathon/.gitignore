@@ -1,0 +1,6 @@
+.env
+data/raw/Novo_Caged_MOV_Limpo.csv
+data/processed/caged_enriquecido.parquet
+__pycache__/
+.ipynb_checkpoints/
+.venv/

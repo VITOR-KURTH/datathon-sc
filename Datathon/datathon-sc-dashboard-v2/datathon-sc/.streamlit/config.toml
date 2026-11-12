@@ -1,0 +1,27 @@
+# Tema "Ficha técnica industrial": cantos retos, linhas de tinta, IBM Plex + Space Grotesk.
+# Referências: Freitag / teenage engineering / Browserbase em styles.refero.design
+[theme]
+base = "light"
+primaryColor = "#0a0a0a"
+backgroundColor = "#f5f5f2"
+secondaryBackgroundColor = "#ececea"
+textColor = "#0a0a0a"
+linkColor = "#0a0a0a"
+borderColor = "#cacaca"
+showWidgetBorder = true
+baseRadius = "none"
+font = "'IBM Plex Sans':https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
+headingFont = "'Space Grotesk':https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap"
+codeFont = "'IBM Plex Mono':https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap"
+baseFontSize = 15
+
+[theme.sidebar]
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f5f2"
+borderColor = "#cacaca"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+enableStaticServing = true
